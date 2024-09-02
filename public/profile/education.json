@@ -1,18 +1,18 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "July 2021 - Present",
+            "cardTitle": "College, Information Technology",
+            "cardSubtitle":"Araullo University, Cabanatuan City",
+            "cardDetailedText": "GPA -",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/au.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "April 2020",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
+            "cardSubtitle":"Araullo University, Cabanautan City",
             "cardDetailedText": "Marks - 95%"
         }
     ]
